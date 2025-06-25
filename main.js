@@ -36,7 +36,7 @@ const ball = {
     speed: 7,
     dx: 5,
     dy: 5,
-    color: '#FFF'
+    color: 'red' // Changed from #FFF to red
 };
 
 // Draw functions
